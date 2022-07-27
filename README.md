@@ -37,7 +37,7 @@ There are 1 notebooks available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://github.com/mikkodong/udacitynanodegree/blob/master/Programmer_Candidates_Importance_blogpost.md).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
