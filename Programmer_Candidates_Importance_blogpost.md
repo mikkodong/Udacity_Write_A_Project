@@ -85,6 +85,6 @@ To summarize, 'Opportunities for professional development', 'The amount of time 
 
 
 
-To see more about this analysis, see the link to my Github available [here]( t.ipynb).
+To see more about this analysis, see the link to my Github available [here](https://github.com/mikkodong/udacitynanodegree/blob/master/Udacity_JobCandidatesFactorImportantce.ipynb).
 
  
