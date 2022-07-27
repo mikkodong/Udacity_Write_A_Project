@@ -78,10 +78,15 @@ Factors that are traditionally sought after and are listed on our resume, such a
 
 As for factors rated not as important or not at all important to recruitment, 'Stack Overflow reputation', 'previous job titles held', 'Educational crendnetials', and 'Contributions to open source projects'.
 
-These all highlights that programming is a such a job that focuses on 'hands-on project experience', instead of online prescense or shiny history on your resume. What carries beyond your resume is your knowledge in solving real problems.
+
 
 # Summary
-To summarize, 'Opportunities for professional development', 'The amount of time I'd have to spend commuting' and 31% rated 'The office environment I'd be working in' 32% respondents rated as very important. This highlights the trade-offs between the attractiveness of office environment and how much commute it takes to get there. These were factors not relevant to the nature of work but definitely shows the fact 'we are all human' and is percetiple of all the things come with 'going to work'.
+To summarize, 'Opportunities for professional development', 'The amount of time spend commuting' and 'The office environment'are quite important to job applicants. While the career growth is viewed as highly-important, the last two highlights the trade-offs between the attractiveness of office environment and how much commute it takes to get there. These were factors not relevant to the nature of work but definitely shows the fact 'we are all human' and is percetiple of all the things come with 'going to work'. 
+
+When it comes to what to look for in future candidates, the responses highlighted that programming is a such a job that focuses on 'hands-on project experience', instead of online prescense or shiny history on your resume. What carries beyond your resume is your knowledge in solving real problems.
+
+> Do these ratings resonate with you? 
+> Are you ready for your next job search? 
 
 
 
